@@ -1,5 +1,12 @@
 # EMS-Homework
 
+
+
+![](1.png)
+
+
+
+
 Unit 12: MySQL
 Overview
 In this unit, we add the final layer to our stack: the database. While it is the last, it is by no means the least. Databases are the foundation of full-stack web applications. Although we began our journey on the client-side, it will be more useful from this point on to approach application development from the bottom up. When using our applications, what is most important to our users is being able to store and retrieve data. Once we determine how we will model that data, we can then set about determining the best way to deliver it to the front-end via our server-side API.
